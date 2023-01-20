@@ -4,7 +4,18 @@
     "owner": "test"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "test"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ]
   }
 }
