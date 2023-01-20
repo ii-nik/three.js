@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "test",
-    "owner": "test"
+    "owner": "test",
+    "description": "test"
   },
   "detail": {
     "contributors": [
@@ -16,6 +17,7 @@
         "diagramType": "STRIDE",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "test"
   }
 }
